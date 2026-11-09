@@ -1,0 +1,21 @@
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS resource files
+._*
+
+# macOS temporary files
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
